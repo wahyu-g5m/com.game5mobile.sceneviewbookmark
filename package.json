@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.sceneviewbookmark",
 	"version": "1.0.0",
-	"displayName": "Scene View Bookmark",
+	"displayName": "Five - Scene View Bookmark",
 	"description": "Bookmark camera position & rotation in a scene view",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
